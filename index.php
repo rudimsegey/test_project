@@ -6,3 +6,10 @@ functions sqr ($num){
 	return;
 }
 sqr(100);
+functions summ ($num1, $num2){
+
+	$a = $num1 + $ 
+	echo "$a\n";
+	return;
+}
+summ(2,3);
